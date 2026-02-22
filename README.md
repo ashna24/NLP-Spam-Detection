@@ -11,10 +11,10 @@ This project compares traditional statistical machine learning models with a Dee
 The project includes a final analysis comparing Accuracy, Precision, Recall, and F1-Scores across all three models.
 
 
-## 🛠️Installation & Usage
+## Installation & Usage
 1. Clone the repo: `git clone https://github.com/yourusername/SMS-Spam-Detection.git`
 2. Install dependencies: `pip install pandas numpy scikit-learn tensorflow gensim matplotlib`
 3. Run the script: `python src/nlp_mid.py`
 
-## 📂Dataset
+## Dataset
 Uses the [UCI SMS Spam Collection](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) dataset.
